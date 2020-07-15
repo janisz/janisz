@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Twitter](https://twitter.com/janiszt)
 - 📰 I’m author of [Detektywi.IT](https://detektywi.it/author/janiszt/)
 - 😄 Pronouns: he/him
+- 📝 [CV](https://stackoverflow.com/cv/janisz)
 
 [![Hits](http://hits.dwyl.com/janisz/janisz.svg)](http://hits.dwyl.com/jaisz/janisz)
 
