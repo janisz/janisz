@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently looking for new adventure 🌇
 - 💬 Ask me about [Mesos](https://stackoverflow.com/tags/mesos/)
 - 📫 How to reach me: [Twitter](https://twitter.com/janiszt)
 - 📰 I’m author of [Detektywi.IT](https://detektywi.it/author/janiszt/)
